@@ -43,3 +43,10 @@ clientes, produtos, regiões e datas de envio e entrega.
 - Google Sheets (limpeza, análise e visualização de dados)
 - Tabelas dinâmicas
 - Fórmulas avançadas (IFS, cálculo de SLA)
+
+## Fonte dos Dados
+
+A planilha utilizada neste projeto está disponível no Google Sheets:
+https://docs.google.com/spreadsheets/d/1o41ceAk0R9bqUuZ_LcIqP2y9yjaeuMIIeS9k22W90JI/edit?usp=sharing
+
+
