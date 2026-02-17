@@ -34,10 +34,10 @@ clientes, produtos, regiões e datas de envio e entrega.
 ![Vendas por Região](screenshots/vendas_regiao.png)
 
 ### Vendas por Categoia
-![Vendas por Categoria](screenshots/vendas_catrgoria.png)
+![Vendas por Categoria](screenshots/vendas_categoria.png)
 
 ### Análise de SLA Logístico
-![Análise de SLA](screenshots/logistica_sla.png)
+![Análise de SLA](screenshots/logistica_SLA.png)
 
 ## Ferramentas Utilizadas
 - Google Sheets (limpeza, análise e visualização de dados)
