@@ -25,6 +25,20 @@ clientes, produtos, regiões e datas de envio e entrega.
 - O método Same Day apresenta alto cumprimento de SLA.
 - Second Class apresenta o pior desempenho percentual de SLA, indicando gargalos logísticos.
 
+## Visualizações
+
+### Dashboard Executivo
+![Dashboard Executivo](screenshots/dashboard_resumo.png)
+
+### Vendas por Região
+![Vendas por Região](screenshots/vendas_regiao.png)
+
+### Vendas por Categoia
+![Vendas por Categoria](screenshots/vendas_catrgoria.png)
+
+### Análise de SLA Logístico
+![Análise de SLA](screenshots/logistica_sla.png)
+
 ## Ferramentas Utilizadas
 - Google Sheets (limpeza, análise e visualização de dados)
 - Tabelas dinâmicas
